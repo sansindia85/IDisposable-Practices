@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
+  <AnalysisConfigPath>G:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\.sonarqube\conf\SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
+  <ProjectPath>G:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.App\WordCounter.App.csproj</ProjectPath>
+  <FilesToAnalyzePath>G:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\.sonarqube\conf\2\FilesToAnalyze.txt</FilesToAnalyzePath>
+  <OutPath>G:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\.sonarqube\out\2</OutPath>
+  <ProjectType>Product</ProjectType>
+  <TargetFramework>net5.0</TargetFramework>
+</SonarProjectConfig>

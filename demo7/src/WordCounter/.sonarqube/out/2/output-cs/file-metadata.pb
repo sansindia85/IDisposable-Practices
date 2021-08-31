@@ -1,0 +1,9 @@
+d
+[G:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.App\Data\SqlClient.csutf-8e
+\G:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.App\IO\FileArchiver.csutf-8f
+]G:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.App\IO\FolderWatcher.csutf-8]
+TG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.App\Program.csutf-8h
+_G:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.App\Services\ApiClient.csutf-8•
+‰G:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.App\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8i
+^G:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.App\obj\swaggerClient.csutf-8…
+zG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.App\obj\Debug\net5.0\WordCounter.App.AssemblyInfo.csutf-8

@@ -1,0 +1,6 @@
+projectKey=SQLCosumer1
+serverUrl=http://localhost:9000
+serverVersion=9.0.1.46107
+dashboardUrl=http://localhost:9000/dashboard?id=SQLCosumer1
+ceTaskId=AXuHyya-y5IhegukYzHf
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXuHyya-y5IhegukYzHf

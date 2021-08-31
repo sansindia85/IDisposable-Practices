@@ -1,0 +1,9 @@
+s
+jG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.Api\Controllers\HealthzController.csutf-8u
+lG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.Api\Controllers\WordCountController.csutf-8k
+bG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.Api\Models\WordCountModel.csutf-8]
+TG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.Api\Program.csutf-8]
+TG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.Api\Startup.csutf-8ï
+âG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.Api\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8Ö
+zG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.Api\obj\Debug\net5.0\WordCounter.Api.AssemblyInfo.csutf-8ô
+çG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.Api\obj\Debug\net5.0\WordCounter.Api.MvcApplicationPartsAssemblyInfo.csutf-8

@@ -1,0 +1,13 @@
+p
+gG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.ModernApp\Data\BookFeedContext.csutf-8o
+fG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.ModernApp\Data\Model\BookFeed.csutf-8o
+fG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.ModernApp\Data\Model\BookLine.csutf-8k
+bG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.ModernApp\IO\FileArchiver.csutf-8l
+cG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.ModernApp\IO\FolderWatcher.csutf-8x
+oG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.ModernApp\Processors\BookFeedProcessor.csutf-8x
+oG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.ModernApp\Processors\BookLineProcessor.csutf-8c
+ZG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.ModernApp\Program.csutf-8n
+eG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.ModernApp\Services\ApiClient.csutf-8õ
+èG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.ModernApp\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8o
+dG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.ModernApp\obj\swaggerClient.csutf-8í
+ÜG:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.ModernApp\obj\Debug\net5.0\WordCounter.ModernApp.AssemblyInfo.csutf-8

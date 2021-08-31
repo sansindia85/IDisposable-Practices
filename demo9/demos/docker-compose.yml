@@ -1,0 +1,11 @@
+services:
+
+  word-count-db:
+    image: psdispose/word-count-db
+    ports: 
+      - 1433:1433
+
+  word-count-api:
+    image: psdispose/word-count-api   
+    ports:
+      - 8080:80

@@ -1,0 +1,1 @@
+G:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\.sonarqube\out\0

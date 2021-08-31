@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>WordCounter.App</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>b81a930d-e2e4-4004-98a8-92e525e9336e</ProjectGuid>
+  <FullPath>G:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.App\WordCounter.App.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="G:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\.sonarqube\conf\2\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">G:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.App\bin\Debug\net5.0\WordCounter.App.dll.RoslynCA.json|G:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\WordCounter.App\bin\Debug\net5.0\WordCounter.App.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">G:\Prototypes\IDisposable-Practices\demo7\src\WordCounter\.sonarqube\out\2</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net5.0</TargetFramework>
+</ProjectInfo>
